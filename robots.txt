@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Sitemap: https://hostingtelegramfacebook.github.io/Hosting_bot/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+# HostMaster Pro - Telegram Bot Hosting Platform
+# الموقع الرسمي: https://hostingtelegramfacebook.github.io/Hosting_bot/
+# منصة استضافة بوتات تليجرام المجانية
